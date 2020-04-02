@@ -661,18 +661,3 @@ if num == 15:
 
 
 print("Готово! Все логи были сохранены в файл logs.txt")
-print("""
-Subscribe to Yan4ik Channel on YouTube! 
-https://youtube.com/channel/UCu6l8wKI7WGlwoD1It_vcdw
---Thanks for using this programm!--
-
-MODYFIED BY 0X40
-
-------Version 1.1------
-""")
- programm!--
-
-MODYFIED BY 0X40 (t.me/codingbots)
-
-------Version 1.1------
-""")
